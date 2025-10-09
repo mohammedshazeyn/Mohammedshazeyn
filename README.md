@@ -1,13 +1,18 @@
-Hi, I’m Mohammed Shazeyn, a 9th-grade student and aspiring Software Engineer passionate about building real-world applications.
+# 💫 About Me:
+Hi, I’m Mohammed Shazeyn, a 9th-grade student and aspiring Software Engineer. I’m passionate about coding, building real-world applications, and using technology to help people.<br><br>Currently working on: Python projects, flight booking systems, and AI-integrated applications.<br><br>Looking to collaborate on: Beginner-friendly software projects, learning-based apps, and Python projects.<br><br>Looking for help with: Advanced AI concepts, web development, and project optimization techniques.<br><br>Currently learning: Deep Python, AI integration, and software engineering concepts.<br><br>Fun fact: I’m certified in Python, Generative AI (Google), and Oracle Cloud Infrastructure, even while being in 9th grade!<br><br>I’m always open to learning, sharing ideas, and collaborating with other developers.<br><br>Connect with me:<br>GitHub<br> 
 
-I specialize in Python development and AI integration for software projects.
 
-Certified in Python, Generative AI (Google), and Oracle Cloud Infrastructure (OCI).
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Shazeyn) 
 
-I love creating premium software solutions, such as flight booking systems, automated apps, and data-driven projects.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohammed shazeyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohammed shazeyn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed shazeyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My goal is to help people with technology while continuously learning and improving my skills.
+---
+[![](https://visitcount.itsvg.in/api?id=Mohammed shazeyn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Connect with me:
-GitHub
- | LinkedIn
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
